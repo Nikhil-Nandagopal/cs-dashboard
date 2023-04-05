@@ -1,0 +1,37 @@
+{
+    "boxShadow": "none",
+    "widgetName": "Canvas1Copy1",
+    "displayName": "Canvas",
+    "topRow": 0,
+    "bottomRow": 140,
+    "parentRowSpace": 1,
+    "type": "CANVAS_WIDGET",
+    "canExtend": false,
+    "hideCard": true,
+    "minHeight": 140,
+    "parentColumnSpace": 1,
+    "leftColumn": 0,
+    "dynamicBindingPathList": [
+        {"key": "borderRadius"},
+        {"key": "accentColor"}
+    ],
+    "children": [
+        "jun03f0koh",
+        "3ydbno6qo3",
+        "lyzw73f6f2",
+        "a1p7ygajls"
+    ],
+    "key": "pkalc7zdin",
+    "isDeprecated": false,
+    "rightColumn": 225,
+    "detachFromLayout": true,
+    "widgetId": "h5h6ad11su",
+    "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+    "containerStyle": "none",
+    "isVisible": true,
+    "version": 1,
+    "parentId": "puoeb3szfz",
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}"
+}
